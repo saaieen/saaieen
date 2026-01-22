@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" width=360px alt="Unicorn" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;* **About me***
 
